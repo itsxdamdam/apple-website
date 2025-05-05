@@ -85,9 +85,11 @@ const HowItWorks = () => {
             <p className="hiw-text g_fadeIn">
               Mobile{" "}
               <span className="text-white">
-                ga,es will look and feel so immersive
+                games will look and feel so immersive
               </span>
-              with incredibly detailed environments and characters
+              with incredibly detailed environments and more realistic
+              characters. And with industry-leading speed and efficiency, A17
+              Pro takes fast and runs with it.
             </p>
           </div>
 
